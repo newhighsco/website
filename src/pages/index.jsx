@@ -5,7 +5,7 @@ import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
 import { PageContainer } from '../components/PageContainer'
 import { config, socialLinks } from '../../site.config'
 
-import logoUrl from '../images/logo.png'
+import logoUrl from '../images/logo-avatar-dark.png'
 
 const HomePage = ({ meta }) => (
   <PageContainer meta={meta}>

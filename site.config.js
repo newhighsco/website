@@ -5,13 +5,13 @@ import openGraphImageUrl from './src/images/sharing.jpg'
 export const config = {
   lang: 'en',
   url: process.env.SITE_URL,
-  name: 'Press Start',
-  shortName: null,
-  title: 'Press Start - Chipset + Next.js site starter by New High Score',
-  description: 'Get a theme-able Next.js site up and running quickly',
+  name: 'New High Score',
+  shortName: 'N↑S',
+  title: 'New High Score - Extending your favourite end-game',
+  description: 'Extending your favourite end-game',
   themeColor: colors.black,
   twitterHandle: 'newhighsco',
-  googleTrackingId: null,
+  googleTrackingId: 'UA-120983547-1',
   disallowRobots: JSON.parse(process.env.DISALLOW_ROBOTS || false)
 }
 

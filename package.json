@@ -1,17 +1,17 @@
 {
-  "name": "@newhighsco/press-start",
-  "description": "Chipset + Next.js site starter by New High Score",
-  "version": "1.9.1",
+  "name": "@newhighsco/website",
+  "description": "New High Score website",
+  "version": "2.0.0",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/newhighsco/press-start.git"
+    "url": "https://github.com/newhighsco/website.git"
   },
-  "homepage": "https://github.com/newhighsco/press-start#readme",
+  "homepage": "https://github.com/newhighsco/website#readme",
   "bugs": {
-    "url": "https://github.com/newhighsco/press-start/issues"
+    "url": "https://github.com/newhighsco/website/issues"
   },
   "scripts": {
     "start": "next dev",
