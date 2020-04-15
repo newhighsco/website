@@ -7,9 +7,15 @@ const withSitemap = require('@newhighsco/next-plugin-sitemap')
 const withRobots = require('@newhighsco/next-plugin-robots')
 const withSvgr = require('@newhighsco/next-plugin-svgr')
 const withFonts = require('next-fonts')
+const withVideos = require('next-videos')
 const withCssOptions = require('./src/plugins/css-options')
 
 const nextConfig = {
+  experimental: {
+    sassOptions: {
+      implementation: require('sass')
+    }
+  },
   exportTrailingSlash: true,
   poweredByHeader: false,
   env: {
@@ -49,6 +55,7 @@ module.exports = withPlugins(
     ],
     [withCssOptions, { cssModulesOptions: { mode: 'local' } }],
     [withFonts],
+    [withVideos],
     [withSitemap, { sitemap: { hostname: nextConfig.env.SITE_URL } }],
     [
       withRobots,
