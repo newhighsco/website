@@ -1,0 +1,11 @@
+@use '~@newhighsco/chipset/styles/functions';
+
+.link {
+  display: block;
+  margin: functions.spacing(1);
+}
+
+.icon {
+  fill: currentColor;
+  width: functions.spacing(4);
+}

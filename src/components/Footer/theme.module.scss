@@ -1,0 +1,10 @@
+@use '~@newhighsco/chipset/styles/functions';
+
+.content {
+  padding: functions.spacing(3) 0;
+}
+
+.gutter {
+  padding-left: functions.spacing(3);
+  padding-right: functions.spacing(3);
+}

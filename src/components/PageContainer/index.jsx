@@ -1,9 +1,15 @@
 import React from 'react'
 import { node, object } from 'prop-types'
-import { PageContainer as ThemedPageContainer } from '@newhighsco/chipset'
+import {
+  Backdrop,
+  PageContainer as ThemedPageContainer
+} from '@newhighsco/chipset'
 import { Header } from '../Header'
 import { Footer } from '../Footer'
 import { Meta } from '../Meta'
+
+import backdropImage from '../../images/backdrop.jpg'
+import backdropVideo from '../../videos/backdrop.mp4'
 
 const PageContainer = ({ meta, children }) => (
   <ThemedPageContainer
@@ -11,7 +17,12 @@ const PageContainer = ({ meta, children }) => (
     id="content"
     role="main"
     header={<Header />}
-    footer={<Footer />}
+    footer={
+      <>
+        <Footer />
+        <Backdrop image={backdropImage} video={backdropVideo} />
+      </>
+    }
     fullWidth
     gutter
   >

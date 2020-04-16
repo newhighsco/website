@@ -1,4 +1,7 @@
+@use '~@newhighsco/chipset/styles/settings/breakpoints.module';
+
 .logo {
   fill: currentColor;
-  width: 32px;
+  max-width: 100%;
+  width: breakpoints.$mobile;
 }

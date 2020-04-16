@@ -1,5 +1,11 @@
-@import '../../styles/settings/colors.module';
+@use '~@newhighsco/chipset/styles/functions';
 
-.wrapper {
-  border-bottom: 1px solid lighten($color-black, 75);
+.content {
+  padding-top: functions.spacing(4);
+  padding-bottom: functions.spacing(4);
+}
+
+.gutter {
+  padding-left: functions.spacing(4);
+  padding-right: functions.spacing(4);
 }

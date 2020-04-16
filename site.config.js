@@ -12,7 +12,8 @@ export const config = {
   themeColor: colors.black,
   twitterHandle: 'newhighsco',
   googleTrackingId: 'UA-120983547-1',
-  disallowRobots: JSON.parse(process.env.DISALLOW_ROBOTS || false)
+  disallowRobots: JSON.parse(process.env.DISALLOW_ROBOTS || false),
+  email: 'hello@newhighsco.re'
 }
 
 export const meta = {
@@ -33,5 +34,6 @@ export const meta = {
 }
 
 export const socialLinks = {
+  facebook: `https://www.facebook.com/${config.twitterHandle}/`,
   twitter: `https://twitter.com/${config.twitterHandle}`
 }
