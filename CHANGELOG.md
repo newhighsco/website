@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/newhighsco/website/compare/v1.0.1...v1.0.2) (2020-04-17)
+
+
+### Bug Fixes
+
+* **404:** add routing for 404 page ([63c9cbd](https://github.com/newhighsco/website/commit/63c9cbd4049398779a775ef3b27fc9ed83cd1d91))
+
 ## [1.0.1](https://github.com/newhighsco/website/compare/v1.0.0...v1.0.1) (2020-04-17)
 
 
