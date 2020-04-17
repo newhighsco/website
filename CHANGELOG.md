@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/newhighsco/website/compare/v1.0.2...v1.1.0) (2020-04-17)
+
+
+### Features
+
+* **sass:** reorganises sass files for better customisation ([ed1d6f8](https://github.com/newhighsco/website/commit/ed1d6f8b05f95e47d0afc5bb97891cb0739714b6))
+
 ## [1.0.2](https://github.com/newhighsco/website/compare/v1.0.1...v1.0.2) (2020-04-17)
 
 
