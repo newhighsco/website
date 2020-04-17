@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/newhighsco/website/compare/v1.1.0...v1.1.1) (2020-04-17)
+
+
+### Bug Fixes
+
+* **deps:** updates chipset ([a118cdd](https://github.com/newhighsco/website/commit/a118cdd012c254844c34d6b6c62d72c0e5a22413))
+
 # [1.1.0](https://github.com/newhighsco/website/compare/v1.0.2...v1.1.0) (2020-04-17)
 
 
