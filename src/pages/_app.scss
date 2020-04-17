@@ -1,6 +1,6 @@
 @use '~@newhighsco/chipset/styles/normalize';
-@use '../styles/settings/colors.module';
-@use '../styles/settings/fonts';
+@use '../styles/colors.module';
+@use '../styles/fonts';
 
 body {
   background-color: colors.$black;
