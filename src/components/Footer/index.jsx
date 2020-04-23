@@ -55,7 +55,5 @@ const Footer = () => (
   </ContentContainer>
 )
 
-Footer.propTypes = {}
-
 export default Footer
 export { Footer }
