@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/newhighsco/website/compare/v1.1.5...v1.2.0) (2020-04-27)
+
+
+### Features
+
+* **favicon:** adds SVG version ([d2c64c1](https://github.com/newhighsco/website/commit/d2c64c19c48e4939895f841f3deb23a7b1aea5df))
+
 ## [1.1.5](https://github.com/newhighsco/website/compare/v1.1.4...v1.1.5) (2020-04-27)
 
 
