@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/newhighsco/website/compare/v1.2.1...v1.2.2) (2020-04-27)
+
+
+### Bug Fixes
+
+* **robots:** blocks sites correctly ([f33c38d](https://github.com/newhighsco/website/commit/f33c38dd78826aa7f177c712158d375f8d3bb64f))
+
 ## [1.2.1](https://github.com/newhighsco/website/compare/v1.2.0...v1.2.1) (2020-04-27)
 
 
