@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/newhighsco/website/compare/v1.1.4...v1.1.5) (2020-04-27)
+
+
+### Bug Fixes
+
+* correctly extends shared browserslist-config ([d9f0ce0](https://github.com/newhighsco/website/commit/d9f0ce060b9ee5a5eed846bf0f4638d6e9639aae))
+
 ## [1.1.4](https://github.com/newhighsco/website/compare/v1.1.3...v1.1.4) (2020-04-25)
 
 
