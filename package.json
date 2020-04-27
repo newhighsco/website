@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/website",
   "description": "New High Score website",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": true,
@@ -27,7 +27,7 @@
   "dependencies": {
     "@newhighsco/chipset": "2.8.0",
     "@newhighsco/next-plugin-robots": "1.1.0",
-    "@newhighsco/next-plugin-sitemap": "1.0.1",
+    "@newhighsco/next-plugin-sitemap": "1.0.2",
     "@newhighsco/next-plugin-svgr": "1.0.0",
     "next": "9.3.5",
     "next-compose-plugins": "2.2.0",
@@ -39,7 +39,7 @@
     "next-videos": "1.1.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "sass": "1.26.3"
+    "sass": "1.26.5"
   },
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
