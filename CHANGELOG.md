@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/newhighsco/website/compare/v1.2.2...v1.3.0) (2020-04-27)
+
+
+### Features
+
+* **css-option:** moves to external plugin ([65f1be8](https://github.com/newhighsco/website/commit/65f1be84f9e6d51bbd8840b2bbcdd1936bbf3a67))
+
 ## [1.2.2](https://github.com/newhighsco/website/compare/v1.2.1...v1.2.2) (2020-04-27)
 
 
