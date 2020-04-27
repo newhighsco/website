@@ -12,12 +12,13 @@ export const config = {
   themeColor: colors.black,
   twitterHandle: 'newhighsco',
   googleTrackingId: 'UA-120983547-1',
-  disallowRobots: JSON.parse(process.env.DISALLOW_ROBOTS || false),
+  disallowRobots: process.env.DISALLOW_ROBOTS,
   email: 'hello@newhighsco.re'
 }
 
 export const meta = {
   dangerouslySetAllPagesToNoFollow: config.disallowRobots,
+  dangerouslySetAllPagesToNoIndex: config.disallowRobots,
   titleTemplate: `%s | ${config.name}`,
   description: config.description,
   openGraph: {

@@ -20,7 +20,7 @@ const nextConfig = {
   poweredByHeader: false,
   env: {
     SITE_URL: 'https://newhighsco.re/',
-    DISALLOW_ROBOTS: false
+    DISALLOW_ROBOTS: JSON.parse(process.env.DISALLOW_ROBOTS || false)
   },
   exportPathMap: defaultPathMap => {
     const customPathMap = {}
