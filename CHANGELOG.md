@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/newhighsco/website/compare/v1.3.4...v1.4.0) (2020-05-02)
+
+
+### Features
+
+* **social:** adds github link to footer ([447885a](https://github.com/newhighsco/website/commit/447885aa56e84daa4c1899c3f83ff1a2cc4164c2))
+
 ## [1.3.4](https://github.com/newhighsco/website/compare/v1.3.3...v1.3.4) (2020-04-30)
 
 
