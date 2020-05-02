@@ -36,5 +36,6 @@ export const meta = {
 
 export const socialLinks = {
   facebook: `https://www.facebook.com/${config.twitterHandle}/`,
+  github: `https://github.com/${config.twitterHandle}`,
   twitter: `https://twitter.com/${config.twitterHandle}`
 }

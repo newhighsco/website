@@ -1,27 +1,25 @@
 import React from 'react'
 import { ContentContainer, Icon, List, SmartLink } from '@newhighsco/chipset'
+import icons from '../../images/icons'
 import { config, socialLinks } from '../../../site.config'
 
 import theme from './theme.module.scss'
 import styles from './styles.module.scss'
-import EmailSvg from '../../images/icons/email.svg'
-import FacebookSvg from '../../images/icons/facebook.svg'
-import TwitterSvg from '../../images/icons/twitter.svg'
 
 const links = [
   {
-    href: socialLinks.facebook,
-    text: 'Find us on Facebook',
-    icon: FacebookSvg,
+    href: socialLinks.github,
+    text: 'Find us on Github',
+    icon: icons('github'),
     target: '_blank'
   },
   {
     href: socialLinks.twitter,
     text: 'Follow us on Twitter',
-    icon: TwitterSvg,
+    icon: icons('twitter'),
     target: '_blank'
   },
-  { href: `mailto:${config.email}`, text: 'Email us', icon: EmailSvg }
+  { href: `mailto:${config.email}`, text: 'Email us', icon: icons('email') }
 ]
 
 const Footer = () => (
