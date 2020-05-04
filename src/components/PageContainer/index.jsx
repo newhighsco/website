@@ -23,7 +23,6 @@ const PageContainer = ({ meta, children }) => (
         <Backdrop image={backdropImage} video={backdropVideo} />
       </>
     }
-    fullWidth
     gutter
   >
     <Meta {...meta} />

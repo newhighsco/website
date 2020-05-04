@@ -15,7 +15,7 @@ import LogoSvg from '../../images/logo-full.svg'
 const Header = () => (
   <>
     <Landmark id="top">Top of page</Landmark>
-    <ContentContainer as="header" role="banner" fullWidth gutter theme={theme}>
+    <ContentContainer as="header" role="banner" gutter theme={theme}>
       <Link href="/" passHref>
         <SmartLink>
           <Icon alt={config.name} theme={{ wrapper: styles.logo }}>

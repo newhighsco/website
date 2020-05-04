@@ -23,13 +23,7 @@ const links = [
 ]
 
 const Footer = () => (
-  <ContentContainer
-    as="footer"
-    role="contentinfo"
-    fullWidth
-    gutter
-    theme={theme}
-  >
+  <ContentContainer as="footer" role="contentinfo" gutter theme={theme}>
     {links.length && (
       <List inline>
         {links.map(({ href, text, icon: IconSvg, target }, i) => {
