@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/newhighsco/website/compare/v1.4.3...v1.4.4) (2020-05-13)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([f7a1bf9](https://github.com/newhighsco/website/commit/f7a1bf9f8e4a447904acd141c2a64866455bcb88))
+
 ## [1.4.3](https://github.com/newhighsco/website/compare/v1.4.2...v1.4.3) (2020-05-08)
 
 
