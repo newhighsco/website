@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/newhighsco/website/compare/v1.4.5...v1.4.6) (2020-05-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v9.4.1 ([153276f](https://github.com/newhighsco/website/commit/153276fc21ec79fd7dadea665bbcdeab72a1b639))
+
 ## [1.4.5](https://github.com/newhighsco/website/compare/v1.4.4...v1.4.5) (2020-05-13)
 
 
