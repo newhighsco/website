@@ -1,3 +1,10 @@
+## [1.4.27](https://github.com/newhighsco/website/compare/v1.4.26...v1.4.27) (2020-07-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/next-plugin-sitemap to v1.0.9 ([1e16d5d](https://github.com/newhighsco/website/commit/1e16d5db37128d33bb6905d87d18ff46a4c1f4c9))
+
 ## [1.4.26](https://github.com/newhighsco/website/compare/v1.4.25...v1.4.26) (2020-07-06)
 
 
