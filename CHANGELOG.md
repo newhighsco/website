@@ -1,3 +1,10 @@
+## [1.4.28](https://github.com/newhighsco/website/compare/v1.4.27...v1.4.28) (2020-07-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sass to v1.26.10 ([214ceb8](https://github.com/newhighsco/website/commit/214ceb8759c473b7d485d924e458c1c300c2d66f))
+
 ## [1.4.27](https://github.com/newhighsco/website/compare/v1.4.26...v1.4.27) (2020-07-06)
 
 
