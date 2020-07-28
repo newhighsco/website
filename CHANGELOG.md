@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/newhighsco/website/compare/v1.5.0...v1.5.1) (2020-07-28)
+
+
+### Bug Fixes
+
+* **deps:** updates next to v9.5.0 ([e7f6429](https://github.com/newhighsco/website/commit/e7f6429b7397a8929225fa899e03f69e405fe6ba))
+
 # [1.5.0](https://github.com/newhighsco/website/compare/v1.4.39...v1.5.0) (2020-07-28)
 
 
