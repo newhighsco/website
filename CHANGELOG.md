@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/newhighsco/website/compare/v1.4.39...v1.5.0) (2020-07-28)
+
+
+### Features
+
+* uses pure CSS modules ([7ba8ed0](https://github.com/newhighsco/website/commit/7ba8ed04955cae3d72d08434ecd7d0317a03fc93))
+
 ## [1.4.39](https://github.com/newhighsco/website/compare/v1.4.38...v1.4.39) (2020-07-27)
 
 
