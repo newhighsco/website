@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/newhighsco/website/compare/v1.5.2...v1.5.3) (2020-07-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-transpile-modules to v4.0.2 ([164170f](https://github.com/newhighsco/website/commit/164170fe729d2f5130ce95707deef5971b087219))
+
 ## [1.5.2](https://github.com/newhighsco/website/compare/v1.5.1...v1.5.2) (2020-07-28)
 
 
