@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/newhighsco/website/compare/v1.5.3...v1.5.4) (2020-07-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v9.5.1 ([16df911](https://github.com/newhighsco/website/commit/16df91126c803342ad804409f0f0565823c52a1f))
+
 ## [1.5.3](https://github.com/newhighsco/website/compare/v1.5.2...v1.5.3) (2020-07-29)
 
 
