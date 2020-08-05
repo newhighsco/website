@@ -1,3 +1,10 @@
+## [1.5.8](https://github.com/newhighsco/website/compare/v1.5.7...v1.5.8) (2020-08-05)
+
+
+### Bug Fixes
+
+* **videos:** load videos from correct folder ([1f48fb8](https://github.com/newhighsco/website/commit/1f48fb8dea4f323bc7071673e6b9c1f38b5aa515))
+
 ## [1.5.7](https://github.com/newhighsco/website/compare/v1.5.6...v1.5.7) (2020-08-04)
 
 
