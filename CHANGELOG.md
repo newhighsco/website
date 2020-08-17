@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/newhighsco/website/compare/v1.6.0...v1.6.1) (2020-08-17)
+
+
+### Bug Fixes
+
+* **seo:** remove top of page landmark ([bd1dbbc](https://github.com/newhighsco/website/commit/bd1dbbcab455b854f423a9a3464f8f43b217a036))
+
 # [1.6.0](https://github.com/newhighsco/website/compare/v1.5.16...v1.6.0) (2020-08-17)
 
 
