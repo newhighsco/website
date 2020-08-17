@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/newhighsco/website/compare/v1.5.16...v1.6.0) (2020-08-17)
+
+
+### Features
+
+* optimize images ([3fed6b9](https://github.com/newhighsco/website/commit/3fed6b9813557c6b592096f8d3c04d176edccfa9))
+* **analytics:** disable by default ([9363512](https://github.com/newhighsco/website/commit/936351248ac32ded62a6ad7037e3d1707eeed2bd))
+
 ## [1.5.16](https://github.com/newhighsco/website/compare/v1.5.15...v1.5.16) (2020-08-14)
 
 
