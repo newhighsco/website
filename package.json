@@ -15,7 +15,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export --outdir build",
     "start": "next start",
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
