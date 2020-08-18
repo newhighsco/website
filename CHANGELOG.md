@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/newhighsco/website/compare/v1.6.2...v1.6.3) (2020-08-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/chipset to v4.5.0 ([d018644](https://github.com/newhighsco/website/commit/d0186443e26359574af69caeb9161af732a46549))
+
 ## [1.6.2](https://github.com/newhighsco/website/compare/v1.6.1...v1.6.2) (2020-08-18)
 
 
