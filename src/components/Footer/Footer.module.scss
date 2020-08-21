@@ -8,3 +8,13 @@
   padding-left: functions.spacing(3);
   padding-right: functions.spacing(3);
 }
+
+.link {
+  display: block;
+  margin: functions.spacing(1);
+}
+
+.icon {
+  fill: currentColor;
+  width: functions.spacing(4);
+}
