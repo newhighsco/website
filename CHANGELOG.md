@@ -1,3 +1,12 @@
+# [1.7.0](https://github.com/newhighsco/website/compare/v1.6.6...v1.7.0) (2020-08-21)
+
+
+### Features
+
+* **footer:** adds Navigation component ([3c3c624](https://github.com/newhighsco/website/commit/3c3c624ffcfa2d04929b77a7c3d7d749153bc99b))
+* **header:** simplifies file structure ([13ed73c](https://github.com/newhighsco/website/commit/13ed73c20a5f98153b2ff5a333dd3dea4d5947a5))
+* **meta:** tidies up useage ([e497c88](https://github.com/newhighsco/website/commit/e497c8809da1bf1acd808ab9ba96326df35acf72))
+
 ## [1.6.6](https://github.com/newhighsco/website/compare/v1.6.5...v1.6.6) (2020-08-20)
 
 
