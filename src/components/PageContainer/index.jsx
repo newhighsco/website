@@ -4,9 +4,7 @@ import {
   Backdrop,
   PageContainer as ThemedPageContainer
 } from '@newhighsco/chipset'
-import { Header } from '../Header'
-import { Footer } from '../Footer'
-import { Meta } from '../Meta'
+import { Footer, Header, Meta } from '..'
 
 import backdropImage from '../../images/backdrop.jpg'
 import backdropVideo from '../../videos/backdrop.mp4'

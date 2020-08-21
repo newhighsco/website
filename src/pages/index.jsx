@@ -2,7 +2,7 @@ import React from 'react'
 import { object } from 'prop-types'
 import urlJoin from 'url-join'
 import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
-import { PageContainer } from '../components/PageContainer'
+import { PageContainer } from '../components'
 import { config, socialLinks } from '../../site.config'
 
 import logoUrl from '../images/logo-avatar-dark.png'
