@@ -5,8 +5,6 @@ import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
 import { PageContainer } from '../components'
 import { config, socialLinks } from '../../site.config'
 
-import logoUrl from '../images/logo-avatar-dark.png'
-
 const HomePage = ({ meta }) => (
   <PageContainer meta={meta}>
     <SocialProfileJsonLd
@@ -15,7 +13,7 @@ const HomePage = ({ meta }) => (
       url={config.url}
       sameAs={[socialLinks.twitter]}
     />
-    <LogoJsonLd url={config.url} logo={urlJoin(config.url, logoUrl)} />
+    <LogoJsonLd url={config.url} logo={config.logo} />
   </PageContainer>
 )
 
@@ -27,7 +25,7 @@ export async function getStaticProps() {
   return {
     props: {
       meta: {
-        slug: '/',
+        canonical: urlJoin(config.url, '/'),
         customTitle: true,
         title: config.title
       }
