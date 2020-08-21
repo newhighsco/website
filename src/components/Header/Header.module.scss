@@ -1,3 +1,4 @@
+@use '../../styles/breakpoints.module';
 @use '../../styles/functions';
 
 .content {
@@ -8,4 +9,10 @@
 .gutter {
   padding-left: functions.spacing(4);
   padding-right: functions.spacing(4);
+}
+
+.logo {
+  fill: currentColor;
+  max-width: 100%;
+  width: breakpoints.$mobile;
 }
