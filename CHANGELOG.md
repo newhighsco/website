@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/newhighsco/website/compare/v1.7.1...v1.7.2) (2020-08-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-videos to v1.3.0 ([861ce23](https://github.com/newhighsco/website/commit/861ce23311a832042ea73a2e802044ae150109be))
+
 ## [1.7.1](https://github.com/newhighsco/website/compare/v1.7.0...v1.7.1) (2020-08-21)
 
 
