@@ -4,7 +4,7 @@ import { ContentContainer, Icon, SmartLink } from '@newhighsco/chipset'
 import { config } from '../../../site.config'
 
 import styles from './Header.module.scss'
-import LogoSvg from '../../images/logo-full.svg'
+import { ReactComponent as LogoSvg } from '../../images/logo-full.svg'
 
 const Header = () => (
   <>
