@@ -23,7 +23,11 @@ module.exports = withPlugins(
       {
         inlineImageLimit: -1,
         handleImages: ['jpeg', 'png', 'webp', 'gif', 'ico'],
-        removeOriginalExtension: true
+        removeOriginalExtension: true,
+        responsive: {
+          adapter: require('responsive-loader/sharp'),
+          sizes: [320, 640, 960, 1280, 1600]
+        }
       }
     ],
     [

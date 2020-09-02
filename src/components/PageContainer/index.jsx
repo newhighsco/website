@@ -1,35 +1,50 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { node, object } from 'prop-types'
-import dynamic from 'next/dynamic'
-import { PageContainer as ThemedPageContainer } from '@newhighsco/chipset'
+import {
+  Backdrop,
+  Image,
+  PageContainer as ThemedPageContainer
+} from '@newhighsco/chipset'
 import { Footer, Header, Meta } from '..'
 
-import backdropImage from '../../images/backdrop.jpg'
+import backdropImage from '../../images/backdrop.jpg?size=320'
+import backdropImages from '../../images/backdrop.jpg?resize&format=webp'
 import backdropVideo from '../../videos/backdrop.mp4'
 
-const Backdrop = dynamic(
-  () => import('@newhighsco/chipset').then(({ Backdrop }) => Backdrop),
-  { ssr: false }
-)
+const PageContainer = ({ meta, children }) => {
+  const [loaded, setLoaded] = useState(false)
 
-const PageContainer = ({ meta, children }) => (
-  <ThemedPageContainer
-    as="main"
-    id="content"
-    role="main"
-    header={<Header />}
-    footer={
-      <>
-        <Footer />
-        <Backdrop image={backdropImage} video={backdropVideo} />
-      </>
-    }
-    gutter
-  >
-    <Meta {...meta} />
-    {children}
-  </ThemedPageContainer>
-)
+  useEffect(() => {
+    setLoaded(true)
+  }, [])
+
+  return (
+    <ThemedPageContainer
+      as="main"
+      id="content"
+      role="main"
+      header={<Header />}
+      footer={
+        <>
+          <Footer />
+          <Backdrop>
+            <Image
+              src={backdropImage.src}
+              sources={[{ srcSet: backdropImages.srcSet, type: 'image/webp' }]}
+            />
+            {loaded && (
+              <video src={backdropVideo} muted autoPlay loop playsInline />
+            )}
+          </Backdrop>
+        </>
+      }
+      gutter
+    >
+      <Meta {...meta} />
+      {children}
+    </ThemedPageContainer>
+  )
+}
 
 PageContainer.propTypes = {
   meta: object,
