@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/newhighsco/website/compare/v1.7.5...v1.8.0) (2020-09-02)
+
+
+### Features
+
+* performance enhancements ([f712888](https://github.com/newhighsco/website/commit/f7128886e9c2db17ae9492836d6556ceaf6ea3e0))
+
 ## [1.7.5](https://github.com/newhighsco/website/compare/v1.7.4...v1.7.5) (2020-09-01)
 
 
