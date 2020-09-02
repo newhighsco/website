@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/newhighsco/website/compare/v1.8.0...v1.9.0) (2020-09-02)
+
+
+### Features
+
+* **backdrop:** optimises background image ([f22e7db](https://github.com/newhighsco/website/commit/f22e7dbedefde5744909cd9a37cc69bb6c80cda7))
+
 # [1.8.0](https://github.com/newhighsco/website/compare/v1.7.5...v1.8.0) (2020-09-02)
 
 
