@@ -1,13 +1,16 @@
 import React from 'react'
 import { node, object } from 'prop-types'
-import {
-  Backdrop,
-  PageContainer as ThemedPageContainer
-} from '@newhighsco/chipset'
+import dynamic from 'next/dynamic'
+import { PageContainer as ThemedPageContainer } from '@newhighsco/chipset'
 import { Footer, Header, Meta } from '..'
 
 import backdropImage from '../../images/backdrop.jpg'
 import backdropVideo from '../../videos/backdrop.mp4'
+
+const Backdrop = dynamic(
+  () => import('@newhighsco/chipset').then(({ Backdrop }) => Backdrop),
+  { ssr: false }
+)
 
 const PageContainer = ({ meta, children }) => (
   <ThemedPageContainer
