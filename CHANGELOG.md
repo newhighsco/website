@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/newhighsco/website/compare/v1.9.1...v1.9.2) (2020-09-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency responsive-loader to v2.1.0 ([59f5eb3](https://github.com/newhighsco/website/commit/59f5eb38c570a9d9fdfc8a684c5b0dd6f3de4769))
+
 ## [1.9.1](https://github.com/newhighsco/website/compare/v1.9.0...v1.9.1) (2020-09-03)
 
 
