@@ -1,3 +1,10 @@
+## [1.9.5](https://github.com/newhighsco/website/compare/v1.9.4...v1.9.5) (2020-09-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-videos to v1.4.0 ([3aa656b](https://github.com/newhighsco/website/commit/3aa656bf4e58afcc296324ad0bed45fa5148fcdf))
+
 ## [1.9.4](https://github.com/newhighsco/website/compare/v1.9.3...v1.9.4) (2020-09-06)
 
 
