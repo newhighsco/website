@@ -1,3 +1,10 @@
+## [1.9.7](https://github.com/newhighsco/website/compare/v1.9.6...v1.9.7) (2020-09-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sharp to v0.26.1 ([aaecaca](https://github.com/newhighsco/website/commit/aaecaca84c8b54ff839fc99dbfc86bc640fceedd))
+
 ## [1.9.6](https://github.com/newhighsco/website/compare/v1.9.5...v1.9.6) (2020-09-18)
 
 
