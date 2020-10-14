@@ -1,3 +1,10 @@
+## [1.9.23](https://github.com/newhighsco/website/compare/v1.9.22...v1.9.23) (2020-10-14)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo to v16.14.0 ([8da0d90](https://github.com/newhighsco/website/commit/8da0d90325647342e36c86bd03ab2cf16935c0d4))
+
 ## [1.9.22](https://github.com/newhighsco/website/compare/v1.9.21...v1.9.22) (2020-10-14)
 
 
