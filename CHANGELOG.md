@@ -1,3 +1,11 @@
+## [1.9.37](https://github.com/newhighsco/website/compare/v1.9.36...v1.9.37) (2020-10-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v10 ([82c37c2](https://github.com/newhighsco/website/commit/82c37c2b4694a7d7d2b3e3583b48d1f96aaf82a3))
+* **deps:** update react monorepo to v17 ([5487482](https://github.com/newhighsco/website/commit/54874821824753a8a16b14de28d6c10236bb309b))
+
 ## [1.9.36](https://github.com/newhighsco/website/compare/v1.9.35...v1.9.36) (2020-10-30)
 
 
