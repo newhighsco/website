@@ -1,3 +1,10 @@
+## [1.9.42](https://github.com/newhighsco/website/compare/v1.9.41...v1.9.42) (2020-11-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v10.0.1 ([c19d482](https://github.com/newhighsco/website/commit/c19d482932fb1c7fbb610be59b66961cf85b4e33))
+
 ## [1.9.41](https://github.com/newhighsco/website/compare/v1.9.40...v1.9.41) (2020-11-02)
 
 
