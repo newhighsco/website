@@ -1,3 +1,10 @@
+## [1.9.52](https://github.com/newhighsco/website/compare/v1.9.51...v1.9.52) (2020-11-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-fonts to v1.5.1 ([3b381ef](https://github.com/newhighsco/website/commit/3b381ef0205f03129d4037f047c44f8084346f42))
+
 ## [1.9.51](https://github.com/newhighsco/website/compare/v1.9.50...v1.9.51) (2020-11-12)
 
 
