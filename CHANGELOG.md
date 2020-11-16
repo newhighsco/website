@@ -1,3 +1,10 @@
+## [1.9.55](https://github.com/newhighsco/website/compare/v1.9.54...v1.9.55) (2020-11-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sharp to v0.26.3 ([df7300e](https://github.com/newhighsco/website/commit/df7300eb88cd53b4c07f3cbf3c9839c2e3f93433))
+
 ## [1.9.54](https://github.com/newhighsco/website/compare/v1.9.53...v1.9.54) (2020-11-15)
 
 
