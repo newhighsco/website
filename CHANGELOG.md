@@ -1,3 +1,11 @@
+## [1.9.67](https://github.com/newhighsco/website/compare/v1.9.66...v1.9.67) (2020-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([a3db377](https://github.com/newhighsco/website/commit/a3db3775d6b283b18f7febece4cccc8a08f0ff45))
+* **deps:** update newhighsco packages ([cfae9da](https://github.com/newhighsco/website/commit/cfae9daf873169b21a5df5ee8293f2f5401b3762))
+
 ## [1.9.66](https://github.com/newhighsco/website/compare/v1.9.65...v1.9.66) (2020-12-03)
 
 
