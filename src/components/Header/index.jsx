@@ -17,7 +17,7 @@ const Header = () => (
     >
       <Link href="/" passHref>
         <SmartLink>
-          <Icon alt={config.name} theme={{ wrapper: styles.logo }}>
+          <Icon alt={config.name} theme={{ root: styles.logo }}>
             <LogoSvg />
           </Icon>
         </SmartLink>

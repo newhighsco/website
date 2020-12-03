@@ -42,7 +42,7 @@ const Footer = () => (
       links={links}
       renderLink={({ text, icon: IconSvg, ...rest }) => (
         <SmartLink {...rest}>
-          <Icon theme={{ wrapper: styles.icon }} alt={text}>
+          <Icon theme={{ root: styles.icon }} alt={text}>
             <IconSvg />
           </Icon>
         </SmartLink>
