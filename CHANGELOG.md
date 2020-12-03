@@ -1,3 +1,10 @@
+## [1.9.66](https://github.com/newhighsco/website/compare/v1.9.65...v1.9.66) (2020-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-transpile-modules to v6 ([193e2b6](https://github.com/newhighsco/website/commit/193e2b6d20680055c97367c39ff464f8dac0a50e))
+
 ## [1.9.65](https://github.com/newhighsco/website/compare/v1.9.64...v1.9.65) (2020-12-03)
 
 
