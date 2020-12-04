@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/newhighsco/website/compare/v1.9.69...v1.10.0) (2020-12-04)
+
+
+### Features
+
+* **postcss:** enables PurgeCSS ([e2f7d84](https://github.com/newhighsco/website/commit/e2f7d845191ade04d49e85e9d4dcf53d9ffdcaf1))
+
 ## [1.9.69](https://github.com/newhighsco/website/compare/v1.9.68...v1.9.69) (2020-12-04)
 
 
