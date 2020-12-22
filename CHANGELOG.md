@@ -1,3 +1,10 @@
+## [1.10.12](https://github.com/newhighsco/website/compare/v1.10.11...v1.10.12) (2020-12-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sharp to v0.27.0 ([#359](https://github.com/newhighsco/website/issues/359)) ([591f6f1](https://github.com/newhighsco/website/commit/591f6f12c6d50d21e51363a882b166ae9593f0eb))
+
 ## [1.10.11](https://github.com/newhighsco/website/compare/v1.10.10...v1.10.11) (2020-12-22)
 
 
