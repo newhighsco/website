@@ -16,7 +16,6 @@ export const config = {
   openGraphImage: urlJoin(url, openGraphImageUrl),
   themeColor: colors.black,
   twitterHandle: 'newhighsco',
-  googleTrackingId: 'UA-120983547-1',
   disallowRobots: process.env.DISALLOW_ROBOTS
 }
 
