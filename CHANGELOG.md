@@ -1,3 +1,10 @@
+## [1.11.11](https://github.com/newhighsco/website/compare/v1.11.10...v1.11.11) (2021-01-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/chipset to v6.4.7 ([#392](https://github.com/newhighsco/website/issues/392)) ([6339d7e](https://github.com/newhighsco/website/commit/6339d7e506cc59212a250eaa94622c4681397099))
+
 ## [1.11.10](https://github.com/newhighsco/website/compare/v1.11.9...v1.11.10) (2021-01-12)
 
 
