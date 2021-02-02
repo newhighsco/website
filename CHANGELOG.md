@@ -1,3 +1,10 @@
+## [1.11.28](https://github.com/newhighsco/website/compare/v1.11.27...v1.11.28) (2021-02-02)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([#434](https://github.com/newhighsco/website/issues/434)) ([afa93e8](https://github.com/newhighsco/website/commit/afa93e8d5447443d2a2cde0bd009432622f2382d))
+
 ## [1.11.27](https://github.com/newhighsco/website/compare/v1.11.26...v1.11.27) (2021-02-02)
 
 
