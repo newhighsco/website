@@ -1,3 +1,10 @@
+## [1.11.29](https://github.com/newhighsco/website/compare/v1.11.28...v1.11.29) (2021-02-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-seo to v4.19.0 ([#435](https://github.com/newhighsco/website/issues/435)) ([b35e471](https://github.com/newhighsco/website/commit/b35e4710998c51bc6328e626ac792c0b18db3dc0))
+
 ## [1.11.28](https://github.com/newhighsco/website/compare/v1.11.27...v1.11.28) (2021-02-02)
 
 
