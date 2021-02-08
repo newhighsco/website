@@ -1,3 +1,10 @@
+## [1.11.34](https://github.com/newhighsco/website/compare/v1.11.33...v1.11.34) (2021-02-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-transpile-modules to v6.3.0 ([#443](https://github.com/newhighsco/website/issues/443)) ([3db3aa5](https://github.com/newhighsco/website/commit/3db3aa5ca70f6462b852de777d86697e034ec5e8))
+
 ## [1.11.33](https://github.com/newhighsco/website/compare/v1.11.32...v1.11.33) (2021-02-08)
 
 
