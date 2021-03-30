@@ -1,3 +1,10 @@
+## [1.11.69](https://github.com/newhighsco/website/compare/v1.11.68...v1.11.69) (2021-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v10.1.2 ([#541](https://github.com/newhighsco/website/issues/541)) ([0a5e424](https://github.com/newhighsco/website/commit/0a5e424b0aa8a6de39e47f9019e756f8008e40bd))
+
 ## [1.11.68](https://github.com/newhighsco/website/compare/v1.11.67...v1.11.68) (2021-03-30)
 
 
