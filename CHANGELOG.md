@@ -1,3 +1,10 @@
+## [1.11.89](https://github.com/newhighsco/website/compare/v1.11.88...v1.11.89) (2021-05-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-transpile-modules to v7 ([#588](https://github.com/newhighsco/website/issues/588)) ([44b4d2e](https://github.com/newhighsco/website/commit/44b4d2e82b1447013b05912fa778742ff010a66f))
+
 ## [1.11.88](https://github.com/newhighsco/website/compare/v1.11.87...v1.11.88) (2021-04-30)
 
 
