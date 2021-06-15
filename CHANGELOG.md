@@ -1,3 +1,10 @@
+## [1.11.129](https://github.com/newhighsco/website/compare/v1.11.128...v1.11.129) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-sitemap to v1.6.116 ([#684](https://github.com/newhighsco/website/issues/684)) ([c7a1953](https://github.com/newhighsco/website/commit/c7a19536a8490ed8bf15b8b128b568e04a6420d0))
+
 ## [1.11.128](https://github.com/newhighsco/website/compare/v1.11.127...v1.11.128) (2021-06-15)
 
 
