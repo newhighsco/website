@@ -1,3 +1,13 @@
+## [1.11.137](https://github.com/newhighsco/website/compare/v1.11.136...v1.11.137) (2021-06-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v11 ([85bbb84](https://github.com/newhighsco/website/commit/85bbb84ad325e89bfbc553175080138c1353e835))
+* **deps:** update dependency next-sitemap to v1.6.124 ([0f803f9](https://github.com/newhighsco/website/commit/0f803f9991045996881bed73791a1205ae1908fc))
+* **deps:** update dependency next-transpile-modules to v8 ([cc9d964](https://github.com/newhighsco/website/commit/cc9d96446748834eb9bf273b001996617a88ef55))
+* **next:** ignore eslint errors during build ([e1494ef](https://github.com/newhighsco/website/commit/e1494ef78a8a3843a665d500b2c2935e5b75bd0d))
+
 ## [1.11.136](https://github.com/newhighsco/website/compare/v1.11.135...v1.11.136) (2021-06-21)
 
 
