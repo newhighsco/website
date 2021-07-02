@@ -1,3 +1,10 @@
+## [1.11.141](https://github.com/newhighsco/website/compare/v1.11.140...v1.11.141) (2021-07-02)
+
+
+### Bug Fixes
+
+* **document:** correctly link to sitemap.xml ([5e09414](https://github.com/newhighsco/website/commit/5e094147758ec2fe24e536e872f9008b20c8095d))
+
 ## [1.11.140](https://github.com/newhighsco/website/compare/v1.11.139...v1.11.140) (2021-06-29)
 
 
