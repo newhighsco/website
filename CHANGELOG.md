@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/newhighsco/website/compare/v1.11.141...v1.12.0) (2021-07-02)
+
+
+### Features
+
+* **backdrop:** don't load video if user prefers reduced motion ([1305815](https://github.com/newhighsco/website/commit/130581575a09d49241164c3356c39aebe2290649))
+
 ## [1.11.141](https://github.com/newhighsco/website/compare/v1.11.140...v1.11.141) (2021-07-02)
 
 
