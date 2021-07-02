@@ -15,7 +15,10 @@ const PageContainer = ({ meta, children }) => {
   const [loaded, setLoaded] = useState(false)
 
   useEffect(() => {
-    setLoaded(true)
+    const reduceMotion =
+      matchMedia('(prefers-reduced-motion: reduce)')?.matches || false
+
+    setLoaded(!reduceMotion)
   }, [])
 
   return (
