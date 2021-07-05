@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/newhighsco/website/compare/v1.13.0...v1.13.1) (2021-07-05)
+
+
+### Bug Fixes
+
+* restore missing CSS ([2273385](https://github.com/newhighsco/website/commit/227338551b6f10b75b80cd28e878d2a64f752748))
+
 # [1.13.0](https://github.com/newhighsco/website/compare/v1.12.1...v1.13.0) (2021-07-05)
 
 
