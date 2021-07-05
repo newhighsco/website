@@ -1,3 +1,16 @@
+# [1.13.0](https://github.com/newhighsco/website/compare/v1.12.1...v1.13.0) (2021-07-05)
+
+
+### Bug Fixes
+
+* **favicon:** correctly export favicon ([7748fb1](https://github.com/newhighsco/website/commit/7748fb14534fbf0d0b3cf784c84da856654e37b7))
+* **icons:** only export used icons ([60dd15b](https://github.com/newhighsco/website/commit/60dd15bbe9a89161d9b80eff44046c52e5d58ad5))
+
+
+### Features
+
+* **favicon:** add support for darkmode ([ebc1b8e](https://github.com/newhighsco/website/commit/ebc1b8effbc14c1b6ab2eb74e3d94da5994d1007))
+
 ## [1.12.1](https://github.com/newhighsco/website/compare/v1.12.0...v1.12.1) (2021-07-04)
 
 
