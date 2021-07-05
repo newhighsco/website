@@ -5,7 +5,9 @@ import {
   Navigation,
   SmartLink
 } from '@newhighsco/chipset'
-import icons from '../../images/icons'
+import { ReactComponent as EmailIcon } from '../../images/icons/email.svg'
+import { ReactComponent as GithubIcon } from '../../images/icons/github.svg'
+import { ReactComponent as TwitterIcon } from '../../images/icons/twitter.svg'
 import { socialLinks } from '../../../site.config'
 
 import styles from './Footer.module.scss'
@@ -14,19 +16,19 @@ const links = [
   {
     href: socialLinks.github,
     text: 'Find us on Github',
-    icon: icons('github'),
+    icon: GithubIcon,
     target: '_blank'
   },
   {
     href: socialLinks.twitter,
     text: 'Follow us on Twitter',
-    icon: icons('twitter'),
+    icon: TwitterIcon,
     target: '_blank'
   },
   {
     href: `mailto:${socialLinks.email}`,
     text: 'Email us',
-    icon: icons('email')
+    icon: EmailIcon
   }
 ]
 
