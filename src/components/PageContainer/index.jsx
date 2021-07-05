@@ -10,6 +10,7 @@ import { Footer, Header, Meta } from '..'
 import backdropImage from '../../images/backdrop.jpg?size=320'
 import backdropImages from '../../images/backdrop.jpg?resize&format=webp'
 import backdropVideo from '../../videos/backdrop.mp4'
+import logoUrl from '../../images/logo-avatar.svg'
 
 const PageContainer = ({ meta, children }) => {
   const [loaded, setLoaded] = useState(false)
@@ -43,7 +44,20 @@ const PageContainer = ({ meta, children }) => {
       }
       gutter
     >
-      <Meta {...meta} />
+      <Meta
+        {...meta}
+        additionalLinkTags={[
+          {
+            rel: 'icon',
+            href: logoUrl
+          },
+          {
+            rel: 'sitemap',
+            type: 'application/xml',
+            href: '/sitemap.xml'
+          }
+        ]}
+      />
       {children}
     </ThemedPageContainer>
   )
