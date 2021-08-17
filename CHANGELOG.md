@@ -1,3 +1,10 @@
+## [1.13.32](https://github.com/newhighsco/website/compare/v1.13.31...v1.13.32) (2021-08-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sharp to v0.29.0 ([#776](https://github.com/newhighsco/website/issues/776)) ([a7c5e1f](https://github.com/newhighsco/website/commit/a7c5e1f1b70fe4b046e1c4c7b0b5e44450811882))
+
 ## [1.13.31](https://github.com/newhighsco/website/compare/v1.13.30...v1.13.31) (2021-08-17)
 
 
