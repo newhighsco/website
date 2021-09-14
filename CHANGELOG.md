@@ -1,3 +1,10 @@
+## [1.13.53](https://github.com/newhighsco/website/compare/v1.13.52...v1.13.53) (2021-09-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sass to v1.40.0 ([#823](https://github.com/newhighsco/website/issues/823)) ([f6bb578](https://github.com/newhighsco/website/commit/f6bb57828227e6b123234e9dc73063232bcb0b5f))
+
 ## [1.13.52](https://github.com/newhighsco/website/compare/v1.13.51...v1.13.52) (2021-09-13)
 
 
