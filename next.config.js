@@ -1,23 +1,24 @@
 const withPlugins = require('next-compose-plugins')
 const withTranspileModules = require('next-transpile-modules')([
-  '@newhighsco/chipset'
+  '@newhighsco/chipset',
+  '@newhighsco/press-start'
 ])
 const withImages = require('next-optimized-images')
 const withSvgr = require('@newhighsco/next-plugin-svgr')
 const withFonts = require('next-fonts')
 const withVideos = require('next-videos')
-const envConfig = require('./env.config')
-
-const env = envConfig[process.env.VERCEL_GITHUB_COMMIT_REF] || envConfig.preview
 
 const nextConfig = {
   poweredByHeader: false,
-  env,
   eslint: {
     ignoreDuringBuilds: true
   },
   images: {
     disableStaticImages: true
+  },
+  i18n: {
+    locales: ['en'],
+    defaultLocale: 'en'
   }
 }
 

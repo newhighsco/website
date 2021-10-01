@@ -1,45 +1,26 @@
-import urlJoin from 'url-join'
 import colors from './src/styles/_colors.module.scss'
-import logoUrl from './src/images/logo-avatar-dark.png'
-import openGraphImageUrl from './src/images/sharing.jpg'
+import logoBitmap from './src/images/logo-avatar-dark.png'
+import logoVector from './src/images/logo-avatar.svg'
+import openGraphImage from './src/images/sharing.jpg'
 
-const url = process.env.SITE_URL
-
-export const config = {
-  lang: 'en',
-  url,
+const config = {
   name: 'New High Score',
   shortName: 'N↑S',
   title: 'New High Score - Extending your favourite end-game',
   description: 'Extending your favourite end-game',
-  logo: urlJoin(url, logoUrl),
-  openGraphImage: urlJoin(url, openGraphImageUrl),
+  logo: {
+    bitmap: logoBitmap,
+    vector: logoVector
+  },
+  openGraphImage,
   themeColor: colors.black,
   twitterHandle: 'newhighsco',
-  disallowRobots: process.env.DISALLOW_ROBOTS
+  socialLinks: {
+    email: 'hello@newhighsco.re',
+    facebook: 'https://www.facebook.com/newhighsco/',
+    github: 'https://github.com/newhighsco',
+    twitter: 'https://twitter.com/newhighsco'
+  }
 }
 
-export const meta = {
-  dangerouslySetAllPagesToNoFollow: config.disallowRobots,
-  dangerouslySetAllPagesToNoIndex: config.disallowRobots,
-  titleTemplate: `%s | ${config.name}`,
-  description: config.description,
-  openGraph: {
-    site_name: config.name,
-    type: 'website',
-    images: [{ url: config.openGraphImage }]
-  },
-  twitter: {
-    cardType: 'summary',
-    site: `@${config.twitterHandle}`,
-    handle: `@${config.twitterHandle}`
-  },
-  additionalMetaTags: [{ name: 'theme-color', content: config.themeColor }]
-}
-
-export const socialLinks = {
-  email: 'hello@newhighsco.re',
-  facebook: 'https://www.facebook.com/newhighsco/',
-  github: 'https://github.com/newhighsco',
-  twitter: 'https://twitter.com/newhighsco'
-}
+export default config

@@ -1,5 +1,5 @@
-@use '../../styles/breakpoints.module';
-@use '../../styles/functions';
+@use '@styles/breakpoints.module';
+@use '@styles/functions';
 
 .content {
   padding-top: functions.spacing(4);
