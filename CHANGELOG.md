@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/newhighsco/website/compare/v1.13.64...v1.14.0) (2021-10-01)
+
+
+### Features
+
+* use `@newhighsco/press-start` ([#856](https://github.com/newhighsco/website/issues/856)) ([302ddfd](https://github.com/newhighsco/website/commit/302ddfdd826dc82ea2a4c09890fe16a80d276212))
+
 ## [1.13.64](https://github.com/newhighsco/website/compare/v1.13.63...v1.13.64) (2021-09-30)
 
 
