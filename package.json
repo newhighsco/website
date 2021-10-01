@@ -16,17 +16,19 @@
   "files": [
     "public",
     "src",
-    "env.config.js",
+    ".env",
+    "jsconfig.json",
     "next-sitemap.js",
     "next.config.js",
     "postcss.config.js",
     "site.config.js"
   ],
   "scripts": {
-    "clean": "rm -rf {.next,build}",
+    "clean": "rm -rf {.next,public/robots.txt,public/sitemap.xml}",
     "start": "next dev",
-    "build": "next build && next export --outdir build",
+    "build": "next build",
     "postbuild": "next-sitemap",
+    "serve": "next start",
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
     "lint:js": "eslint --cache --ext .js,.json,.jsx,.mdx .",
