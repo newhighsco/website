@@ -5,13 +5,14 @@ import {
   Navigation,
   SmartLink
 } from '@newhighsco/chipset'
-import { ReactComponent as EmailIcon } from '../../images/icons/email.svg'
-import { ReactComponent as GithubIcon } from '../../images/icons/github.svg'
-import { ReactComponent as TwitterIcon } from '../../images/icons/twitter.svg'
-import { socialLinks } from '../../../site.config'
+import { ReactComponent as EmailIcon } from '@images/icons/email.svg'
+import { ReactComponent as GithubIcon } from '@images/icons/github.svg'
+import { ReactComponent as TwitterIcon } from '@images/icons/twitter.svg'
+import config from '@config'
 
 import styles from './Footer.module.scss'
 
+const { socialLinks } = config
 const links = [
   {
     href: socialLinks.github,

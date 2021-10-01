@@ -2,10 +2,11 @@ import React from 'react'
 import { object } from 'prop-types'
 import urlJoin from 'url-join'
 import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
-import { PageContainer } from '../components'
-import { config as settings, socialLinks } from '../../site.config'
+import PageContainer from '@components/PageContainer'
+import config from '@config'
 
-const { name, title, url, logo } = settings
+const { name, title, logo, socialLinks } = config
+const url = process.env.NEXT_PUBLIC_SITE_URL
 
 const HomePage = ({ meta }) => (
   <PageContainer meta={meta}>
@@ -15,7 +16,7 @@ const HomePage = ({ meta }) => (
       url={url}
       sameAs={[socialLinks.twitter]}
     />
-    <LogoJsonLd url={url} logo={logo} />
+    <LogoJsonLd url={url} logo={urlJoin(url, logo.bitmap)} />
   </PageContainer>
 )
 
