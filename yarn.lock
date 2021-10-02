@@ -1417,15 +1417,14 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/browserslist-config/-/browserslist-config-1.0.3.tgz#e4a8ee575fbe5a21bc9df809a4998e1959713524"
   integrity sha512-iV6oB/iFrObsOBVQIAsV2PBDPSm2cLktnKEvT0k9AjiL15+R6I40OIddzBDve0buW1i/zDNtWJj5WH/P9ugQcw==
 
-"@newhighsco/chipset@6.10.0":
-  version "6.10.0"
-  resolved "https://registry.yarnpkg.com/@newhighsco/chipset/-/chipset-6.10.0.tgz#8fc3b3518fc441c6a4dca4fa25bef1b1661c7e70"
-  integrity sha512-zDyYNgh/klh0B3vb9fj2UoIkfQjsJWkX3lg/x4Mgt+p9/Z7gQprxS2y6sW3cIPLF5sgu1SZCYUdBN0KT8UaICA==
+"@newhighsco/chipset@6.11.0":
+  version "6.11.0"
+  resolved "https://registry.yarnpkg.com/@newhighsco/chipset/-/chipset-6.11.0.tgz#b74cb684423af103e8cabcedd9a8d61d82da3c8d"
+  integrity sha512-7qYI/3et7reCbGppEgBVuGyIhvGq+171LRtj8VAJ7iXTYkKHJGRoIMtWKi0YA0PvWP/KZUWqINPDg0cmWJl39Q==
   dependencies:
     "@dr.pogodin/react-themes" "1.3.3"
     classnames "2.3.1"
     react-device-detect "2.0.0"
-    react-ga "3.3.0"
 
 "@newhighsco/commitlint-config@1.0.15":
   version "1.0.15"
@@ -1467,24 +1466,24 @@
     file-loader "6.2.0"
     url-loader "4.1.1"
 
-"@newhighsco/postcss-config@3.4.0":
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/@newhighsco/postcss-config/-/postcss-config-3.4.0.tgz#75b0a9182be5c4e9c1c9adfe8f21e4f6a9098d88"
-  integrity sha512-SujJvKFc4s3gtVvOtVRsOXqfme/XWaBQWu7gUWTNQqvyIAqHoWCXEAuVRGC8pY0O74ctLROSfWbrGglPIc90ag==
+"@newhighsco/postcss-config@3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@newhighsco/postcss-config/-/postcss-config-3.4.1.tgz#1d3484310bc4e80318d039c28d96872b4ac96e25"
+  integrity sha512-ZezTt4i1O40AvHcXkYgNTeDfOE019ylRiAlxaByntfee0FS+grNL2KZ755pXDYx2QmQZcRAFVstlniXxL3OLvA==
   dependencies:
     "@fullhuman/postcss-purgecss" "4.0.3"
     autoprefixer "10.3.6"
-    caniuse-lite "1.0.30001261"
+    caniuse-lite "1.0.30001263"
     postcss "8.3.8"
     postcss-flexbugs-fixes "5.0.2"
     postcss-preset-env "6.7.0"
 
-"@newhighsco/press-start@2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@newhighsco/press-start/-/press-start-2.0.2.tgz#9aff46ca2175773ae53f9cc81ab8d21e37433d15"
-  integrity sha512-yediULFGI/M6kg8eFsaXxggvuq0ffD8sDJVCVCOyfGlcr/FAp2QBycmy/As/03B5mlisTZ/iffdD3tget9Zb2w==
+"@newhighsco/press-start@2.0.4":
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/@newhighsco/press-start/-/press-start-2.0.4.tgz#cffaa0a59ec1d4b6461b48710e48937ecbbc13d6"
+  integrity sha512-sqesGqoW0Kce9J01QHdXyNEdRWBCtgOWT7F8eS9ngSfaK7CVa4CP8ettljnWmcV/EP562osOk0YkMx1XoFiouA==
   dependencies:
-    next-seo "4.27.0"
+    next-seo "4.28.1"
 
 "@newhighsco/prettier-config@2.0.14":
   version "2.0.14"
@@ -3081,15 +3080,20 @@ camelcase@^6.2.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-6.2.0.tgz#924af881c9d525ac9d87f40d964e5cea982a1809"
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
-caniuse-lite@1.0.30001261, caniuse-lite@^1.0.30001259, caniuse-lite@^1.0.30001260:
-  version "1.0.30001261"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001261.tgz#96d89813c076ea061209a4e040d8dcf0c66a1d01"
-  integrity sha512-vM8D9Uvp7bHIN0fZ2KQ4wnmYFpJo/Etb4Vwsuc+ka0tfGDHvOPrFm6S/7CCNLSOkAUjenT2HnUPESdOIL91FaA==
+caniuse-lite@1.0.30001263:
+  version "1.0.30001263"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001263.tgz#7ce7a6fb482a137585cbc908aaf38e90c53a16a4"
+  integrity sha512-doiV5dft6yzWO1WwU19kt8Qz8R0/8DgEziz6/9n2FxUasteZNwNNYSmJO3GLBH8lCVE73AB1RPDPAeYbcO5Cvw==
 
 caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001202, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001228, caniuse-lite@^1.0.30001251:
   version "1.0.30001252"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001252.tgz#cb16e4e3dafe948fc4a9bb3307aea054b912019a"
   integrity sha512-I56jhWDGMtdILQORdusxBOH+Nl/KgQSdDmpJezYddnAkVOmnoU8zwjTV9xAjMIYxr0iPreEAVylCGcmHCjfaOw==
+
+caniuse-lite@^1.0.30001259, caniuse-lite@^1.0.30001260:
+  version "1.0.30001261"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001261.tgz#96d89813c076ea061209a4e040d8dcf0c66a1d01"
+  integrity sha512-vM8D9Uvp7bHIN0fZ2KQ4wnmYFpJo/Etb4Vwsuc+ka0tfGDHvOPrFm6S/7CCNLSOkAUjenT2HnUPESdOIL91FaA==
 
 cardinal@^2.1.1:
   version "2.1.1"
@@ -7554,11 +7558,6 @@ next-optimized-images@2.6.2:
     raw-loader "^2.0.0"
     url-loader "^1.1.2"
 
-next-seo@4.27.0:
-  version "4.27.0"
-  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-4.27.0.tgz#9e6d1b9b49c09c3f5e1e86443dc04854b4edbd48"
-  integrity sha512-nodRrdEePRjFBo+2osYpDCVi+EbO45/MmCnLQpmS59HuEXBDePa3gpM67kJk9cCJ9dKkfp/MwYtmNbhDImMvmg==
-
 next-seo@4.28.1:
   version "4.28.1"
   resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-4.28.1.tgz#c98ee559c8ab7196c62d0f6903afd7a8cde47a03"
@@ -9289,11 +9288,6 @@ react-dom@17.0.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     scheduler "^0.20.2"
-
-react-ga@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/react-ga/-/react-ga-3.3.0.tgz#c91f407198adcb3b49e2bc5c12b3fe460039b3ca"
-  integrity sha512-o8RScHj6Lb8cwy3GMrVH6NJvL+y0zpJvKtc0+wmH7Bt23rszJmnqEQxRbyrqUzk9DTJIHoP42bfO5rswC9SWBQ==
 
 react-is@17.0.2:
   version "17.0.2"
