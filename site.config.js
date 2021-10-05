@@ -4,6 +4,7 @@ import logoVector from './src/images/logo-avatar.svg'
 import openGraphImage from './src/images/sharing.jpg'
 
 const config = {
+  url: process.env.NEXT_PUBLIC_SITE_URL,
   name: 'New High Score',
   shortName: 'N↑S',
   title: 'New High Score - Extending your favourite end-game',
