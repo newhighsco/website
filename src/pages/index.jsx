@@ -5,8 +5,7 @@ import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
 import PageContainer from '@components/PageContainer'
 import config from '@config'
 
-const { name, title, logo, socialLinks } = config
-const url = process.env.NEXT_PUBLIC_SITE_URL
+const { name, title, logo, socialLinks, url } = config
 
 const HomePage = ({ meta }) => (
   <PageContainer meta={meta}>
