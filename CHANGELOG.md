@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/newhighsco/website/compare/v1.14.2...v1.15.0) (2021-10-05)
+
+
+### Features
+
+* **config:** adds url to config file ([#860](https://github.com/newhighsco/website/issues/860)) ([e49050c](https://github.com/newhighsco/website/commit/e49050ce04e11fe82fd2ec4f36dedf9a2d8b0f28))
+
 ## [1.14.2](https://github.com/newhighsco/website/compare/v1.14.1...v1.14.2) (2021-10-04)
 
 
