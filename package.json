@@ -58,7 +58,7 @@
     "react-dom": "17.0.2",
     "responsive-loader": "2.3.0",
     "sass": "1.43.2",
-    "sharp": "0.29.1"
+    "sharp": "0.29.2"
   },
   "devDependencies": {
     "@commitlint/cli": "13.2.1",
