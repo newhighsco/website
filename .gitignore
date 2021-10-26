@@ -24,3 +24,5 @@ yarn-error.log
 .eslintcache
 .stylelintcache
 .next
+public/robots.txt
+public/sitemap.xml

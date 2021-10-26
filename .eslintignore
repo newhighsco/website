@@ -1,8 +1,0 @@
-# dependencies
-/node_modules
-
-# production
-/.next
-
-# misc
-npm-debug.log*
