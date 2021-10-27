@@ -55,7 +55,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "responsive-loader": "2.3.0",
-    "sass": "1.43.3",
+    "sass": "1.43.4",
     "sharp": "0.29.2"
   },
   "devDependencies": {
