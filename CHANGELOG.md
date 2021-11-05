@@ -1,3 +1,10 @@
+## [1.15.20](https://github.com/newhighsco/website/compare/v1.15.19...v1.15.20) (2021-11-05)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([#915](https://github.com/newhighsco/website/issues/915)) ([fbed9ba](https://github.com/newhighsco/website/commit/fbed9ba0b21526a253fae21ceb45248187df47bf))
+
 ## [1.15.19](https://github.com/newhighsco/website/compare/v1.15.18...v1.15.19) (2021-11-03)
 
 
