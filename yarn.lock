@@ -1458,10 +1458,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.1.2.tgz#4f9d24749bf2db72e0af963052e9fa741ed749aa"
   integrity sha512-MFzblCmgiEOte69Mv8dQTT6+4Rj27e3x6bA7tuxycCPCwo4CsP3vWAfEhcz9hDO3+S5Vs/AIpxWTqzt2m0RJNw==
 
-"@newhighsco/eslint-config@2.3.37":
-  version "2.3.37"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.3.37.tgz#e2fc21b427ba7515bb4a4cd0468c4ab7bb0ea563"
-  integrity sha512-S3mMR678jGHwkcTvKlboNf8s03Z8Khlr4IAms9gMOcl5VCu9aCRFItc1GBQyEvxvysZaooWlaNDlPNRB1IEvcg==
+"@newhighsco/eslint-config@2.3.38":
+  version "2.3.38"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.3.38.tgz#3a6a69a9ce5a8e5165d49bb9b47055e6dd4d98bc"
+  integrity sha512-/QZoZESty5+a5q0T/kTTinCE7u0jsRNDzUuzg/6sobUPZ3xAnYBR8e3Lzr9KuhN406XaHoX9fuT8nSd8nuVIiw==
   dependencies:
     "@babel/core" "7.16.0"
     "@babel/eslint-parser" "7.16.0"
@@ -1479,10 +1479,10 @@
     eslint-plugin-react "7.26.1"
     eslint-plugin-standard "4.1.0"
 
-"@newhighsco/next-plugin-svgr@3.0.30":
-  version "3.0.30"
-  resolved "https://registry.yarnpkg.com/@newhighsco/next-plugin-svgr/-/next-plugin-svgr-3.0.30.tgz#cac2184cff780af4b815ea6e5708dff57d0741af"
-  integrity sha512-B1pr1y/L9uhCLQN9yuOtAiMPGVDwRVsrLimLPPmCif+236iT/m1o80sgPM4MRJB9uKYTHGJKOrjGoiLjjyc8Gg==
+"@newhighsco/next-plugin-svgr@3.0.31":
+  version "3.0.31"
+  resolved "https://registry.yarnpkg.com/@newhighsco/next-plugin-svgr/-/next-plugin-svgr-3.0.31.tgz#ed4c9b240ce499be1500dfe376fac2db50cd9a00"
+  integrity sha512-ObtieerLargAI34a19qMH3LixRhhRj7riilAODY0egqPjRmlBYaIFaB/2MAF/JWg6RvQ77VtvMYJagyyDNjs4w==
   dependencies:
     "@svgr/webpack" "5.5.0"
     file-loader "6.2.0"
