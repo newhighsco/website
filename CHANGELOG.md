@@ -1,3 +1,10 @@
+## [1.15.30](https://github.com/newhighsco/website/compare/v1.15.29...v1.15.30) (2021-11-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss to v8.4.4 ([#948](https://github.com/newhighsco/website/issues/948)) ([0b65232](https://github.com/newhighsco/website/commit/0b652325a99a0ba33e5557f542d08a139816ab50))
+
 ## [1.15.29](https://github.com/newhighsco/website/compare/v1.15.28...v1.15.29) (2021-11-27)
 
 
