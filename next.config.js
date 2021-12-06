@@ -37,16 +37,7 @@ module.exports = withPlugins(
         }
       }
     ],
-    [
-      withSvgr,
-      {
-        svgrOptions: {
-          svgoConfig: {
-            plugins: [{ prefixIds: false }]
-          }
-        }
-      }
-    ],
+    [withSvgr],
     [withFonts],
     [withVideos, { assetDirectory: 'static' }]
   ],
