@@ -1,3 +1,10 @@
+## [1.15.101](https://github.com/newhighsco/website/compare/v1.15.100...v1.15.101) (2022-03-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sharp to v0.30.3 ([#1118](https://github.com/newhighsco/website/issues/1118)) ([d75efdf](https://github.com/newhighsco/website/commit/d75efdf3957ea228218d932227779ab85f450eed))
+
 ## [1.15.100](https://github.com/newhighsco/website/compare/v1.15.99...v1.15.100) (2022-03-08)
 
 
