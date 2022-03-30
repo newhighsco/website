@@ -1,3 +1,10 @@
+## [1.15.116](https://github.com/newhighsco/website/compare/v1.15.115...v1.15.116) (2022-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([#1145](https://github.com/newhighsco/website/issues/1145)) ([1eaa39d](https://github.com/newhighsco/website/commit/1eaa39d9d1d92c669edbb5451c8e05bde34fcdd2))
+
 ## [1.15.115](https://github.com/newhighsco/website/compare/v1.15.114...v1.15.115) (2022-03-30)
 
 
