@@ -1,3 +1,10 @@
+## [1.15.115](https://github.com/newhighsco/website/compare/v1.15.114...v1.15.115) (2022-03-30)
+
+
+### Bug Fixes
+
+* **deps:** updates to latest version of `@netlify/plugin-nextjs` ([#1147](https://github.com/newhighsco/website/issues/1147)) ([3e36b67](https://github.com/newhighsco/website/commit/3e36b67c524e91360883c9f23f5564e92e856b67))
+
 ## [1.15.114](https://github.com/newhighsco/website/compare/v1.15.113...v1.15.114) (2022-03-30)
 
 
