@@ -1,3 +1,10 @@
+## [1.15.136](https://github.com/newhighsco/website/compare/v1.15.135...v1.15.136) (2022-04-27)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo to v18.1.0 ([#1197](https://github.com/newhighsco/website/issues/1197)) ([32a362f](https://github.com/newhighsco/website/commit/32a362ff30717d7554a936af9f5e4af22e8628db))
+
 ## [1.15.135](https://github.com/newhighsco/website/compare/v1.15.134...v1.15.135) (2022-04-26)
 
 
