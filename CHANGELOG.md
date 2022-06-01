@@ -1,3 +1,10 @@
+## [1.16.2](https://github.com/newhighsco/website/compare/v1.16.1...v1.16.2) (2022-06-01)
+
+
+### Bug Fixes
+
+* **video:** use `<source />` ([d1f22d3](https://github.com/newhighsco/website/commit/d1f22d30d831c0e6c4d0785a54178cf386b37cfa))
+
 ## [1.16.1](https://github.com/newhighsco/website/compare/v1.16.0...v1.16.1) (2022-06-01)
 
 
