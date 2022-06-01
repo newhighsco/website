@@ -41,14 +41,9 @@ const PageContainer = ({ meta, children }) => {
               priority
             />
             {loaded && (
-              <video
-                src="/videos/backdrop.mp4"
-                preload="none"
-                muted
-                autoPlay
-                loop
-                playsInline
-              />
+              <video preload="none" muted autoPlay loop playsInline>
+                <source src="/videos/backdrop.mp4" type="video/mp4" />
+              </video>
             )}
           </Backdrop>
         </>
