@@ -1,3 +1,10 @@
+## [1.16.1](https://github.com/newhighsco/website/compare/v1.16.0...v1.16.1) (2022-06-01)
+
+
+### Bug Fixes
+
+* compress video ([138e89e](https://github.com/newhighsco/website/commit/138e89e092290e7a4d3cd647070fca6e4dba7bc2))
+
 # [1.16.0](https://github.com/newhighsco/website/compare/v1.15.151...v1.16.0) (2022-06-01)
 
 
