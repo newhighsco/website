@@ -19,9 +19,6 @@
       ],
       "@theme": [
         "src/theme"
-      ],
-      "@videos/*": [
-        "src/videos/*"
       ]
     }
   }

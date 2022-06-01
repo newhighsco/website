@@ -4,7 +4,6 @@ const withTranspileModules = require('next-transpile-modules')([
   '@newhighsco/press-start'
 ])
 const withSvgr = require('@newhighsco/next-plugin-svgr')
-const withVideos = require('next-videos')
 
 const nextConfig = {
   eslint: {
@@ -30,6 +29,6 @@ const nextConfig = {
 }
 
 module.exports = withPlugins(
-  [[withTranspileModules], [withSvgr, { inlineImageLimit: -1 }], [withVideos]],
+  [[withTranspileModules], [withSvgr, { inlineImageLimit: -1 }]],
   nextConfig
 )

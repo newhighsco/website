@@ -10,7 +10,6 @@ import Footer from '@components/Footer'
 import Header from '@components/Header'
 
 import backdropImage from '@images/backdrop.jpg'
-import backdropVideo from '@videos/backdrop.mp4'
 
 const PageContainer = ({ meta, children }) => {
   const [loaded, setLoaded] = useState(false)
@@ -42,7 +41,14 @@ const PageContainer = ({ meta, children }) => {
               priority
             />
             {loaded && (
-              <video src={backdropVideo} muted autoPlay loop playsInline />
+              <video
+                src="/videos/backdrop.mp4"
+                preload="none"
+                muted
+                autoPlay
+                loop
+                playsInline
+              />
             )}
           </Backdrop>
         </>
