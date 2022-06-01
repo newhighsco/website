@@ -1,17 +1,15 @@
 import React, { useEffect, useState } from 'react'
 import { node, object } from 'prop-types'
+import Image from 'next/image'
 import {
   Backdrop,
-  Image,
   PageContainer as ThemedPageContainer
 } from '@newhighsco/chipset'
 import { Meta } from '@newhighsco/press-start'
 import Footer from '@components/Footer'
 import Header from '@components/Header'
 
-import backdropImage from '@images/backdrop.jpg?size=320'
-import backdropImages from '@images/backdrop.jpg?resize&format=webp'
-import backdropVideo from '@videos/backdrop.mp4'
+import backdropImage from '@images/backdrop.jpg'
 
 const PageContainer = ({ meta, children }) => {
   const [loaded, setLoaded] = useState(false)
@@ -34,11 +32,23 @@ const PageContainer = ({ meta, children }) => {
           <Footer />
           <Backdrop>
             <Image
-              src={backdropImage.src}
-              sources={[{ srcSet: backdropImages.srcSet, type: 'image/webp' }]}
+              src={backdropImage}
+              alt=""
+              placeholder="blur"
+              layout="fill"
+              objectFit="cover"
+              objectPosition="50% 50%"
+              priority
             />
             {loaded && (
-              <video src={backdropVideo} muted autoPlay loop playsInline />
+              <video
+                src="/videos/backdrop.mp4"
+                preload="none"
+                muted
+                autoPlay
+                loop
+                playsInline
+              />
             )}
           </Backdrop>
         </>

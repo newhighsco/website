@@ -1,7 +1,7 @@
-import colors from './src/styles/_colors.module.scss'
-import logoBitmap from './src/images/logo-avatar-dark.png'
-import logoVector from './src/images/logo-avatar.svg'
-import openGraphImage from './src/images/sharing.jpg'
+import colors from '@styles/_colors.module.scss'
+import logoBitmap from '@images/logo-avatar-dark.png'
+import logoVector from '@images/logo-avatar.svg'
+import openGraphImage from '@images/sharing.jpg'
 
 const config = {
   url: process.env.NEXT_PUBLIC_SITE_URL,
@@ -10,10 +10,10 @@ const config = {
   title: 'New High Score - Extending your favourite end-game',
   description: 'Extending your favourite end-game',
   logo: {
-    bitmap: logoBitmap,
+    bitmap: logoBitmap.src,
     vector: logoVector
   },
-  openGraphImage,
+  openGraphImage: openGraphImage.src,
   themeColor: colors.black,
   twitterHandle: 'newhighsco',
   socialLinks: {
