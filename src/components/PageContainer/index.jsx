@@ -27,30 +27,26 @@ const PageContainer = ({ meta, children }) => {
       id="content"
       role="main"
       header={<Header />}
-      footer={
-        <>
-          <Footer />
-          <Backdrop>
-            <Image
-              src={backdropImage}
-              alt=""
-              placeholder="blur"
-              layout="fill"
-              objectFit="cover"
-              objectPosition="50% 50%"
-              priority
-            />
-            {loaded && (
-              <video preload="none" muted autoPlay loop playsInline>
-                <source src="/videos/backdrop.mp4" type="video/mp4" />
-              </video>
-            )}
-          </Backdrop>
-        </>
-      }
+      footer={<Footer />}
       gutter
     >
       <Meta {...meta} />
+      <Backdrop>
+        <Image
+          src={backdropImage}
+          alt=""
+          placeholder="blur"
+          layout="fill"
+          objectFit="cover"
+          objectPosition="50% 50%"
+          priority
+        />
+        {loaded && (
+          <video preload="none" muted autoPlay loop playsInline>
+            <source src="/videos/backdrop.mp4" type="video/mp4" />
+          </video>
+        )}
+      </Backdrop>
       {children}
     </ThemedPageContainer>
   )
