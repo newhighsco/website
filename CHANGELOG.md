@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/newhighsco/website/compare/v1.15.151...v1.16.0) (2022-06-01)
+
+
+### Features
+
+* **images:** use `next/image` ([#1256](https://github.com/newhighsco/website/issues/1256)) ([d1c3e35](https://github.com/newhighsco/website/commit/d1c3e356d602364d052f5b172b51646bedf4d6fc))
+
 ## [1.15.151](https://github.com/newhighsco/website/compare/v1.15.150...v1.15.151) (2022-05-30)
 
 
