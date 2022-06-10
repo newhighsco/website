@@ -9847,14 +9847,6 @@ resolve@^2.0.0-next.3:
     is-core-module "^2.2.0"
     path-parse "^1.0.6"
 
-responsive-loader@2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-2.3.0.tgz#3123b6db1dd8aeee37c4d7805e3f45d2e8f5edc1"
-  integrity sha512-8GyyasTKdOfTMDvYy/mBpyV2EM7hz7zWoKdxpocA60eX1jM2udsb+ji03haZWeGnTkQvOplXVqHsev9952dWng==
-  dependencies:
-    loader-utils "^2.0.0"
-    schema-utils "^3.0.0"
-
 retry@^0.10.0:
   version "0.10.1"
   resolved "https://registry.yarnpkg.com/retry/-/retry-0.10.1.tgz#e76388d217992c252750241d3d3956fed98d8ff4"
