@@ -1,3 +1,10 @@
+## [1.16.17](https://github.com/newhighsco/website/compare/v1.16.16...v1.16.17) (2022-07-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-sitemap to v3.1.10 ([#1315](https://github.com/newhighsco/website/issues/1315)) ([264893d](https://github.com/newhighsco/website/commit/264893d991f8a382cac1393c536fbab4639f71ea))
+
 ## [1.16.16](https://github.com/newhighsco/website/compare/v1.16.15...v1.16.16) (2022-07-04)
 
 
