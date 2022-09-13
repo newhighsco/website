@@ -1555,13 +1555,13 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/browserslist-config/-/browserslist-config-1.1.0.tgz#23e1ce88944d770bd31878133089e31e676e7d19"
   integrity sha512-gPpJ1qgm/GvD5L/LQe299m/7aWguvfdy2Sg5E46QHo/AGGx0ws9r5f7a4SP54ntQXvFFpaSQsq8+CDY52JIN3w==
 
-"@newhighsco/chipset@6.14.7":
-  version "6.14.7"
-  resolved "https://registry.yarnpkg.com/@newhighsco/chipset/-/chipset-6.14.7.tgz#784e97ff8b38510e8dd756cc42e3d35712ed88ae"
-  integrity sha512-vpH4RxOHdtj+UXdVfeDxcjwoSOqQnMYnXuJUNW/SwJ/I1n7hP5U0RcnuZ4iycEzBc3eKJhnD+UbAhyTMNFA0Wg==
+"@newhighsco/chipset@6.14.8":
+  version "6.14.8"
+  resolved "https://registry.yarnpkg.com/@newhighsco/chipset/-/chipset-6.14.8.tgz#38750d4382ecc3ca9fa5c8362eb99ac524983530"
+  integrity sha512-IovDrjso8PwR3FEazm/5+N8kXLCSiF1EkLjFQgSpFknj04lS3U7fKNB5s+Z5uyCE4Es0OESfirhryJrW+t3XuA==
   dependencies:
     "@dr.pogodin/react-themes" "1.4.4"
-    classnames "2.3.1"
+    classnames "2.3.2"
     react-device-detect "2.2.2"
 
 "@newhighsco/commitlint-config@1.1.8":
@@ -1605,14 +1605,14 @@
     file-loader "6.2.0"
     url-loader "4.1.1"
 
-"@newhighsco/postcss-config@3.5.67":
-  version "3.5.67"
-  resolved "https://registry.yarnpkg.com/@newhighsco/postcss-config/-/postcss-config-3.5.67.tgz#27fd3ec383f16f279bc2cbe521e3107b35083976"
-  integrity sha512-+bcPnjeq+gifr7ZLSKZjsF9UUXrZMRdSGXnrg3yhU+5t1Qq6BHIC+oSeB7rPXg9/bdpl9KF8Nf48mFpGIZAkWw==
+"@newhighsco/postcss-config@3.5.69":
+  version "3.5.69"
+  resolved "https://registry.yarnpkg.com/@newhighsco/postcss-config/-/postcss-config-3.5.69.tgz#0032d8b1b731620dd0fd8cda19ec5f2a0636f9e8"
+  integrity sha512-/o13cmK9m+riB/swAexh5p+Q9gNrp7TL0AJI0lfS9pOn0rS+wfaxsI6nqahsOYboPWvXbBodGPScLO5NXY1kuQ==
   dependencies:
     "@fullhuman/postcss-purgecss" "4.1.3"
-    autoprefixer "10.4.9"
-    caniuse-lite "1.0.30001397"
+    autoprefixer "10.4.10"
+    caniuse-lite "1.0.30001399"
     postcss-flexbugs-fixes "5.0.2"
     postcss-preset-env "7.8.1"
 
@@ -2781,13 +2781,13 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
-autoprefixer@10.4.9, autoprefixer@^10.4.8:
-  version "10.4.9"
-  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-10.4.9.tgz#40f932f7d0535264823882031f9254ea72c693e5"
-  integrity sha512-Uu67eduPEmOeA0vyJby5ghu1AAELCCNSsLAjK+lz6kYzNM5sqnBO36MqfsjhPjQF/BaJM5U/UuFYyl7PavY/wQ==
+autoprefixer@10.4.10, autoprefixer@^10.4.8:
+  version "10.4.10"
+  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-10.4.10.tgz#a1d8891d1516155eb13a772b1289efdc61de14ef"
+  integrity sha512-nMaiDARyp1e74c8IeAXkr+BmFKa8By4Zak7tyaNPF09Iu39WFpNXOWrVirmXjKr+5cOyERwvtbMOLYz6iBJYgQ==
   dependencies:
     browserslist "^4.21.3"
-    caniuse-lite "^1.0.30001394"
+    caniuse-lite "^1.0.30001399"
     fraction.js "^4.2.0"
     normalize-range "^0.1.2"
     picocolors "^1.0.0"
@@ -3094,12 +3094,7 @@ camelcase@^6.2.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-6.2.0.tgz#924af881c9d525ac9d87f40d964e5cea982a1809"
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
-caniuse-lite@1.0.30001397:
-  version "1.0.30001397"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001397.tgz#010d9d56e3b8abcd8df261d0a94b22426271a15f"
-  integrity sha512-SW9N2TbCdLf0eiNDRrrQXx2sOkaakNZbCjgNpPyMJJbiOrU5QzMIrXOVMRM1myBXTD5iTkdrtU/EguCrBocHlA==
-
-caniuse-lite@^1.0.30001332, caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001394:
+caniuse-lite@1.0.30001399, caniuse-lite@^1.0.30001332, caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001399:
   version "1.0.30001399"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001399.tgz#1bf994ca375d7f33f8d01ce03b7d5139e8587873"
   integrity sha512-4vQ90tMKS+FkvuVWS5/QY1+d805ODxZiKFzsU8o/RsVJz49ZSRR8EjykLJbqhzdPgadbX6wB538wOzle3JniRA==
@@ -3238,10 +3233,10 @@ cidr-regex@^3.1.1:
   dependencies:
     ip-regex "^4.1.0"
 
-classnames@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
-  integrity sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==
+classnames@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.2.tgz#351d813bf0137fcc6a76a16b88208d2560a0d924"
+  integrity sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw==
 
 clean-stack@^2.0.0:
   version "2.2.0"
