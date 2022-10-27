@@ -1,3 +1,10 @@
+## [1.16.74](https://github.com/newhighsco/website/compare/v1.16.73...v1.16.74) (2022-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([#1502](https://github.com/newhighsco/website/issues/1502)) ([fff5041](https://github.com/newhighsco/website/commit/fff50413d0ff71cd9d68b576b023bddbbe63acaf))
+
 ## [1.16.73](https://github.com/newhighsco/website/compare/v1.16.72...v1.16.73) (2022-10-27)
 
 
