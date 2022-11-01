@@ -1,3 +1,10 @@
+## [1.16.81](https://github.com/newhighsco/website/compare/v1.16.80...v1.16.81) (2022-11-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-transpile-modules to v10 ([#1516](https://github.com/newhighsco/website/issues/1516)) ([bed8f28](https://github.com/newhighsco/website/commit/bed8f282285b8098b3e1ffb7ed73d6916837cdad))
+
 ## [1.16.80](https://github.com/newhighsco/website/compare/v1.16.79...v1.16.80) (2022-11-01)
 
 
