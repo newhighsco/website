@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/website",
   "description": "New High Score website",
-  "version": "1.16.93",
+  "version": "1.16.94",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": true,
