@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/website",
   "description": "New High Score website",
-  "version": "1.16.91",
+  "version": "1.16.93",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": true,
@@ -42,12 +42,12 @@
     "@newhighsco/chipset": "6.14.10",
     "@newhighsco/next-plugin-svgr": "3.0.68",
     "@newhighsco/press-start": "2.2.9",
-    "next": "13.0.2",
+    "next": "13.0.3",
     "next-compose-plugins": "2.2.1",
     "next-seo": "5.14.1",
     "next-sitemap": "3.1.30",
     "next-transpile-modules": "10.0.0",
-    "postcss": "8.4.18",
+    "postcss": "8.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sass": "1.56.1"
