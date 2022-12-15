@@ -1,3 +1,10 @@
+## [1.16.110](https://github.com/newhighsco/website/compare/v1.16.109...v1.16.110) (2022-12-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/next-plugin-svgr to v3.0.73 ([#1584](https://github.com/newhighsco/website/issues/1584)) ([d16bba8](https://github.com/newhighsco/website/commit/d16bba8e4358a93ebb46d1a6efb0dd5b407cfb92))
+
 ## [1.16.109](https://github.com/newhighsco/website/compare/v1.16.108...v1.16.109) (2022-12-15)
 
 
