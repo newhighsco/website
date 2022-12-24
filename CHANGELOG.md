@@ -1,3 +1,10 @@
+## [1.16.116](https://github.com/newhighsco/website/compare/v1.16.115...v1.16.116) (2022-12-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v13.1.1 ([#1593](https://github.com/newhighsco/website/issues/1593)) ([6c040e7](https://github.com/newhighsco/website/commit/6c040e7fc1d27f0f74c82d0d1a846330dcbb7d35))
+
 ## [1.16.115](https://github.com/newhighsco/website/compare/v1.16.114...v1.16.115) (2022-12-23)
 
 
