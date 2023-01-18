@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/newhighsco/website/compare/v1.16.122...v1.17.0) (2023-01-18)
+
+
+### Features
+
+* **next:** use native transpiler ([#1622](https://github.com/newhighsco/website/issues/1622)) ([e1ba62e](https://github.com/newhighsco/website/commit/e1ba62e9d2e99d9cce57ca0429515799d5c96c2e))
+
 ## [1.16.122](https://github.com/newhighsco/website/compare/v1.16.121...v1.16.122) (2023-01-13)
 
 
