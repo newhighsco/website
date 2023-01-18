@@ -1,8 +1,4 @@
 const withPlugins = require('next-compose-plugins')
-const withTranspileModules = require('next-transpile-modules')([
-  '@newhighsco/chipset',
-  '@newhighsco/press-start'
-])
 const withSvgr = require('@newhighsco/next-plugin-svgr')
 
 const nextConfig = {
@@ -18,6 +14,7 @@ const nextConfig = {
     defaultLocale: 'en'
   },
   poweredByHeader: false,
+  transpilePackages: ['@newhighsco/chipset', '@newhighsco/press-start'],
   webpack: config => {
     config.module.rules.push({
       test: /\.(txt|xml|woff(2)?)$/,
@@ -28,7 +25,4 @@ const nextConfig = {
   }
 }
 
-module.exports = withPlugins(
-  [[withTranspileModules], [withSvgr, { inlineImageLimit: -1 }]],
-  nextConfig
-)
+module.exports = withPlugins([[withSvgr, { inlineImageLimit: -1 }]], nextConfig)
