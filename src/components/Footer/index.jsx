@@ -1,14 +1,14 @@
-import React from 'react'
+import config from '@config'
+import { ReactComponent as EmailIcon } from '@images/icons/email.svg'
+import { ReactComponent as GithubIcon } from '@images/icons/github.svg'
+import { ReactComponent as TwitterIcon } from '@images/icons/twitter.svg'
 import {
   ContentContainer,
   Icon,
   Navigation,
   SmartLink
 } from '@newhighsco/chipset'
-import { ReactComponent as EmailIcon } from '@images/icons/email.svg'
-import { ReactComponent as GithubIcon } from '@images/icons/github.svg'
-import { ReactComponent as TwitterIcon } from '@images/icons/twitter.svg'
-import config from '@config'
+import React from 'react'
 
 import styles from './Footer.module.scss'
 
