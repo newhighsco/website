@@ -1,6 +1,6 @@
-import React from 'react'
-import { object } from 'prop-types'
 import PageContainer from '@components/PageContainer'
+import { object } from 'prop-types'
+import React from 'react'
 
 const NotFoundPage = ({ meta }) => <PageContainer meta={meta} />
 

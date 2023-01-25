@@ -1,10 +1,10 @@
-import React from 'react'
-import Link from 'next/link'
-import { ContentContainer, Icon, SmartLink } from '@newhighsco/chipset'
 import config from '@config'
+import { ReactComponent as LogoSvg } from '@images/logo-full.svg'
+import { ContentContainer, Icon, SmartLink } from '@newhighsco/chipset'
+import Link from 'next/link'
+import React from 'react'
 
 import styles from './Header.module.scss'
-import { ReactComponent as LogoSvg } from '@images/logo-full.svg'
 
 const { name } = config
 

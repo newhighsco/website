@@ -1,15 +1,14 @@
-import React, { useEffect, useState } from 'react'
-import { node, object } from 'prop-types'
-import Image from 'next/image'
+import Footer from '@components/Footer'
+import Header from '@components/Header'
+import backdropImage from '@images/backdrop.jpg'
 import {
   Backdrop,
   PageContainer as ThemedPageContainer
 } from '@newhighsco/chipset'
 import { Meta } from '@newhighsco/press-start'
-import Footer from '@components/Footer'
-import Header from '@components/Header'
-
-import backdropImage from '@images/backdrop.jpg'
+import Image from 'next/image'
+import { node, object } from 'prop-types'
+import React, { useEffect, useState } from 'react'
 
 const PageContainer = ({ meta, children }) => {
   const [loaded, setLoaded] = useState(false)
