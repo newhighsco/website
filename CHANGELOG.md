@@ -1,3 +1,10 @@
+## [1.17.8](https://github.com/newhighsco/website/compare/v1.17.7...v1.17.8) (2023-01-28)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([#1642](https://github.com/newhighsco/website/issues/1642)) ([cdcfb49](https://github.com/newhighsco/website/commit/cdcfb4953f0d1f731a3cd27c08b759bb32ad0b3f))
+
 ## [1.17.7](https://github.com/newhighsco/website/compare/v1.17.6...v1.17.7) (2023-01-28)
 
 
