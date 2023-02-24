@@ -1,3 +1,10 @@
+## [1.17.18](https://github.com/newhighsco/website/compare/v1.17.17...v1.17.18) (2023-02-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v13.2.1 ([#1679](https://github.com/newhighsco/website/issues/1679)) ([f36ce7d](https://github.com/newhighsco/website/commit/f36ce7d14b643f52ea1f5ff1da76fd9b2c488526))
+
 ## [1.17.17](https://github.com/newhighsco/website/compare/v1.17.16...v1.17.17) (2023-02-18)
 
 
