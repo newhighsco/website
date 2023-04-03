@@ -1,3 +1,10 @@
+## [1.17.36](https://github.com/newhighsco/website/compare/v1.17.35...v1.17.36) (2023-04-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/press-start to v2.2.11 ([#1731](https://github.com/newhighsco/website/issues/1731)) ([2478c39](https://github.com/newhighsco/website/commit/2478c39a6679648d452293d0a4612331d2ada1ca))
+
 ## [1.17.35](https://github.com/newhighsco/website/compare/v1.17.34...v1.17.35) (2023-04-03)
 
 
