@@ -1,3 +1,10 @@
+## [1.17.77](https://github.com/newhighsco/website/compare/v1.17.76...v1.17.77) (2023-06-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next-seo to v6.1.0 ([#1805](https://github.com/newhighsco/website/issues/1805)) ([27607dc](https://github.com/newhighsco/website/commit/27607dc7716e0f27e41f8ed754d45bf098925fb0))
+
 ## [1.17.76](https://github.com/newhighsco/website/compare/v1.17.75...v1.17.76) (2023-06-22)
 
 
