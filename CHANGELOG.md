@@ -1,3 +1,10 @@
+## [1.17.82](https://github.com/newhighsco/website/compare/v1.17.81...v1.17.82) (2023-07-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss to v8.4.25 ([#1827](https://github.com/newhighsco/website/issues/1827)) ([32b37ae](https://github.com/newhighsco/website/commit/32b37ae967f57628b155b656908e89086193446a))
+
 ## [1.17.81](https://github.com/newhighsco/website/compare/v1.17.80...v1.17.81) (2023-07-04)
 
 
