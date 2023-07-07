@@ -1,3 +1,10 @@
+## [1.17.83](https://github.com/newhighsco/website/compare/v1.17.82...v1.17.83) (2023-07-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v13.4.9 ([#1829](https://github.com/newhighsco/website/issues/1829)) ([78bc4e2](https://github.com/newhighsco/website/commit/78bc4e2e6cbaaa6e4f2a3bdd9b94bf6f18ff3d3f))
+
 ## [1.17.82](https://github.com/newhighsco/website/compare/v1.17.81...v1.17.82) (2023-07-06)
 
 
