@@ -1,3 +1,10 @@
+## [1.17.106](https://github.com/newhighsco/website/compare/v1.17.105...v1.17.106) (2023-08-19)
+
+
+### Bug Fixes
+
+* **deps:** update newhighsco packages ([#1900](https://github.com/newhighsco/website/issues/1900)) ([875f9fc](https://github.com/newhighsco/website/commit/875f9fce17e42fd6ba33a536b0669486fe3093e5))
+
 ## [1.17.105](https://github.com/newhighsco/website/compare/v1.17.104...v1.17.105) (2023-08-19)
 
 
