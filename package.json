@@ -49,11 +49,11 @@
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "1.69.5"
+    "sass": "1.69.5",
+    "sharp": "0.32.6"
   },
   "devDependencies": {
     "@commitlint/cli": "18.2.0",
-    "@netlify/plugin-nextjs": "4.41.1",
     "@newhighsco/browserslist-config": "1.1.0",
     "@newhighsco/commitlint-config": "1.1.25",
     "@newhighsco/editor-config": "1.2.0",
