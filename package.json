@@ -2,14 +2,14 @@
   "name": "@newhighsco/website",
   "description": "New High Score website",
   "version": "1.17.173",
-  "author": "New High Score <hello@newhighsco.re>",
+  "author": "New High Score",
   "license": "ISC",
   "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/newhighsco/website.git"
   },
-  "homepage": "https://newhighsco.re/",
+  "homepage": "https://github.com/newhighsco/website#readme",
   "bugs": {
     "url": "https://github.com/newhighsco/website/issues"
   },

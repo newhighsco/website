@@ -1,7 +1,5 @@
 # New High Score
 
-https://newhighsco.re
-
 ## Setup
 
 Install dependencies

@@ -15,12 +15,8 @@ const config = {
   },
   openGraphImage: openGraphImage.src,
   themeColor: colors.black,
-  twitterHandle: 'newhighsco',
   socialLinks: {
-    email: 'hello@newhighsco.re',
-    facebook: 'https://www.facebook.com/newhighsco/',
-    github: 'https://github.com/newhighsco',
-    twitter: 'https://twitter.com/newhighsco'
+    github: 'https://github.com/newhighsco'
   }
 }
 
